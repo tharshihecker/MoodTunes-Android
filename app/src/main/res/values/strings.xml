@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MoodTunes</string>
+    <string name="welcome_message">Welcome to MoodTunes\nExperience music that matches your vibe.</string>
+    <string name="select_mood">Select Your Mood</string>
+    <string name="happy">Happy 😊</string>
+    <string name="sad">Sad 😢</string>
+    <string name="relaxed">Relaxed 😌</string>
+    <string name="energetic">Energetic 🔥</string>
+    <string name="your_playlist">Your Playlist</string>
+    <string name="back">Back</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="play">Play ▶ / Pause ⏸</string>
+    <string name="title">Baby</string>
+    <string name="favorites">Favorites</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="no_favorites">No favorite songs added yet!</string>
+    <string name="background_image_desc">Background Image</string>
+    <string name="profile_image_desc">Profile Image</string>
+    <string name="visual">visualizer</string>
+
+    <string name="profile">Profile </string>
+
+
+    <string name="song_image_desc">Singer Image</string>
+
+    <string name="user_name">User Name: Kaja Rock</string>
+    <string name="user_email">Email: kajarocl@gmail.com</string>
+    <string name="user_address">Address: Jaffna</string>
+    <string name="user_age">Age: 25</string>
+    <string name="user_phone_number">Phone: 0766645789</string>
+    <string name="user_subscription">Subscription: Premium</string>
+
+    <string name="prev">⏮</string>
+    <string name="play_pause">⏯</string>
+    <string name="next">⏭</string>
+    <string name="start_time">0:00</string>
+    <string name="end_time">3:45</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="signup_prompt">Don’t have an account? </string>
+    <string name="login_prompt"> have an account? </string>
+
+    <string name="logout">Logout</string>
+    <string name="phone_hint">Phone</string>
+    <string name="email_hint">Email</string>
+
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="signup_button_text">Sign Up</string>
+</resources>
